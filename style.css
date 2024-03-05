@@ -1,0 +1,59 @@
+html {
+  background-color: #cabfb6;
+}
+
+body {
+  margin: auto;
+  width: 600px;
+  padding: 20px 100px;
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+  font-family: "Proza Libre", sans-serif;
+}
+
+h2,
+p,
+li {
+  text-align: left;
+}
+
+#Debatelink {
+  text-decoration: none;
+  color: black;
+  background: #c9793b;
+  padding: 10px 15px;
+  border-radius: 10px;
+}
+
+#line {
+  margin-top: 40px;
+}
+
+.boldtexts {
+  font-weight: bold;
+}
+
+#android {
+  background-color: #a4c93b;
+  padding: 5px 20px;
+  font-size: 20px;
+  border: 2px solid rgb(136, 135, 135);
+  border-radius: 4px;
+}
+
+#apple {
+  background-color: #b6bcca;
+  padding: 5px 25px;
+  font-size: 20px;
+  border: 2px solid rgb(158, 158, 158);
+  border-radius: 4px;
+}
+
+#Debatelink:hover {
+  border: 2px solid black;
+}
